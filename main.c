@@ -5,3 +5,4 @@ main() {
 	 palindrome();
 	 sum2();
 }
+:;
